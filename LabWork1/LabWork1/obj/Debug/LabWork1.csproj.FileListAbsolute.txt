@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\LabWork1\LabWork1\bin\Debug\LabWork1.exe.config
+C:\Users\USER\source\repos\LabWork1\LabWork1\bin\Debug\LabWork1.exe
+C:\Users\USER\source\repos\LabWork1\LabWork1\bin\Debug\LabWork1.pdb
+C:\Users\USER\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1.exe
+C:\Users\USER\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1.pdb
